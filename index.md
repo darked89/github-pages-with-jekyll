@@ -1,6 +1,5 @@
 # CONTROL BIM
 
-## test 01
 
 ## ¿Cómo funciona?
 En CONTROL BIM encontrarás un espacio de trabajo común donde reportar de manera ágil y segura toda la documentación referente a Calidad y Medio Ambiente.
@@ -40,7 +39,7 @@ Enviar
 Mantén bajo control toda la documentación de calidad y ambiental de la obra
 Nuestro software de Control de Calidad y Medio Ambiente a través de modelos BIM ayuda a los agentes que intervienen en esta tarea a: añadir, actualizar y descargar las fichas y modelos de calidad y medio ambiente de todos los elementos constructivos de la obra.
 
-|  Integra la información en el modelo |  Permite la interacción de los agentes | Documentación accesible y actualizada   |
+|  **Integra la información en el modelo** |  **Permite la interacción de los agentes** | **Documentación accesible y actualizada**   |
 |:---:|:---:|:---:|
 |![a01](./imgs/a01.png)   |  ![a02](./imgs/a02.png) | ![a03](./imgs/a03.png)  |
 | **Documenta procedimientos medioambientales** | **Documentación completa y a tiempo** | **No mas perdida de documentos ni uso de papel**|
