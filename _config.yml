@@ -1,4 +1,5 @@
-theme: jekyll-theme-architect
+remote_theme: JugglerX/jekyll-serif-theme
+#theme: jekyll-theme-architect
 #theme: jekyll-theme-tactile
 title: Test Control BIM architect
 author: GitHub User
